@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "coverImage": "https://i.ibb.co/WHCwyfT/wepik-export-20230912174531hz1e.png",
+      "title": "The Art of Web Development",
+      "readingTime": "8 min read",
+      "author": {
+        "name": "John Doe",
+        "designation": "Senior Web Developer",
+        "image": "https://i.ibb.co/rQtPjQV/52fc4e1cd6ca45524a376c0074e685a7.jpg"
+      },
+      "postedDate": "2023-09-12",
+      "hashtags": ["web development", "coding", "frontend"]
+    },
+    {
+      "id": 2,
+      "coverImage": "https://i.ibb.co/qpDNZLc/programming-background-with-person-working-with-codes-computer.jpg",
+      "title": "Mastering React.js",
+      "readingTime": "10 min read",
+      "author": {
+        "name": "Jane Smith",
+        "designation": "Frontend Engineer",
+        "image": "https://i.ibb.co/7kyQQFM/126500fe0124ac23184733631311a153.jpg"
+      },
+      "postedDate": "2023-09-10",
+      "hashtags": ["React", "JavaScript", "UI"]
+    },
+    {
+      "id": 3,
+      "coverImage": "https://i.ibb.co/bRDRwwd/rear-view-programmer-working-all-night-long.jpg",
+      "title": "Building Scalable APIs",
+      "readingTime": "12 min read",
+      "author": {
+        "name": "Alex Johnson",
+        "designation": "Backend Developer",
+        "image": "https://i.ibb.co/DKvS3vh/37d56efbd814dda56c284d562fa3afc2.jpg"
+      },
+      "postedDate": "2023-09-08",
+      "hashtags": ["APIs", "backend", "scaling"]
+    },
+    {
+      "id": 4,
+      "coverImage": "https://i.ibb.co/ZGkpBrv/5743077.jpg",
+      "title": "Designing User-Friendly Interfaces",
+      "readingTime": "7 min read",
+      "author": {
+        "name": "Eva Wilson",
+        "designation": "UI/UX Designer",
+        "image": "https://i.ibb.co/Mfm36yQ/ana-nichita-BI91-Nrpp-E38-unsplash.jpg"
+      },
+      "postedDate": "2023-09-05",
+      "hashtags": ["UI", "UX", "design"]
+    },
+    {
+      "id": 5,
+      "coverImage": "https://i.ibb.co/K9GKKLj/21770.jpg",
+      "title": "Introduction to Machine Learning",
+      "readingTime": "15 min read",
+      "author": {
+        "name": "Michael Brown",
+        "designation": "Data Scientist",
+        "image": "https://i.ibb.co/7rCJV48/foto-sushi-6anudmp-ILw4-unsplash.jpg"
+      },
+      "postedDate": "2023-09-02",
+      "hashtags": ["machine learning", "data science", "AI"]
+    }
+  ]
+  
